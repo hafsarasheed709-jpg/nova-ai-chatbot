@@ -1,0 +1,6 @@
+{
+  "name": "NOVA AI",
+  "description": "Futuristic, ultra-fast AI workspace powered by Google Gemini with streaming intelligence, multimodal vision, document analysis, and conversational memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
